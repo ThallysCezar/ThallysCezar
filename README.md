@@ -1,8 +1,8 @@
-### E aí! Eu sou Thallys Cézar!! 👋
+### Hi! I am Thallys Cézar, nice too meet you!! 👋
 
-- 🔭 Eu estou atualmente estudando para área de Front-end, porém, já estudei algumas linguagens de programação sozinho, mesmo sendo elas básicas ...
-- 🌱 Estudando HTML, CSS, Javascript e já estudei as linguagens: Java, C, C++(programando arduino) e Python ...
-- 😄 Pronouns: ele/dele 
+- 🔭 I'm currently studying for the Front-end area, however, I've already studied some programming languages by myself, even though it's a basic level ...
+- 🌱 Studying HTML, CSS, Javascript and already studied languages: Java, C, C++ (programming arduino), Python and PHP ...
+- 😄 Pronouns: ele/dele or 
 
 <div align="center">
   <a href="https://github.com/thallyscezar">
@@ -21,6 +21,7 @@
   <img align="center" alt="Thallys-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Thallys-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Thallys-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Thallys-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     
  
 ##
