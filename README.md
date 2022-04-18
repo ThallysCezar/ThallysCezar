@@ -1,8 +1,9 @@
 ### Hi! I am Thallys Cézar, nice too meet you!! 👋
 
 - 🔭 I'm currently studying for the Front-end area, however, I've already studied some programming languages by myself, even though it's a basic level ...
-- 🌱 Studying HTML, CSS, Javascript and already studied languages: Java, C, C++ (programming arduino), Python and PHP ...
-- 😄 Pronouns: ele/dele or 
+- 🌱 Studying HTML, CSS(frameworks: Bootstrap, Bulma and React), Javascript and already studied languages: Java, C, C++ (programming arduino), Python and PHP ...
+- 😄 Pronouns: ele/dele
+- :star_struck: for more informations: thallyscezar.github.io
 
 <div align="center">
   <a href="https://github.com/thallyscezar">
