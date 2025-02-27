@@ -1,7 +1,7 @@
 ### Hi! I am Thallys Cézar, nice too meet you!! 👋
 #### So, a little bit about me
 
-- 🔭 I'm currently working on projects using Java with SpringBoot.
+- 🔭 I'm currently working on projects using Java with Quarkus.
 - 👯 I'm looking to collaborate on projects involving React JS and TS, Java, .NET, C#, HTML&CSS, Spring Boot, C, and C++ (programming with Arduino).
 - 🤝 I'm looking for help with Java with SpringBoot, as it is a vast world of programming and there is always more to learn.
 - 🌱 I’m currently learning Java with SpringBoot, but I have also studied React with TS and JS, HTML&CSS, C#, .NET, C, C++, among others.
